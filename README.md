@@ -11,9 +11,9 @@ A simple yet engaging Python-based console game where the computer generates a r
 - Clean and beginner-friendly code
 
 ## 📂 Project Structure
-the_perfect_guess.py # Main Python script
-hiscore.txt # Stores the high score
-README.md # Project documentation
+- the_perfect_guess.py # Main Python script
+- hiscore.txt # Stores the high score
+- README.md # Project documentation
 
 ## Run the Python file:
 python the_perfect_guess.py
